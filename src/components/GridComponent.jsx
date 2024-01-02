@@ -371,7 +371,7 @@ const GridComponent = () => {
         </div>
         <div className="flex mt-10 text-gray-500">
           <div>
-            <p className="mb-1 font-extralight text-[#dc2626]">
+            <p className="mb-1 font-light text-[#dc2626]">
               Abandonent Cart
             </p>
             <span className="text-black font-medium text-base">
@@ -379,7 +379,7 @@ const GridComponent = () => {
             </span>
           </div>
           <div className="ml-28">
-            <p className="mb-1 font-extralight">Customers</p>
+            <p className="mb-1 font-light">Customers</p>
             <p className="text-black font-medium text-base">0</p>
           </div>
         </div>
