@@ -1,6 +1,6 @@
 # Dashboard Challenge
 
-Welcome to your Dashboard Challenge! 🚀
+Welcome to the Dashboard Challenge! 🚀
 
 ## Getting Started
 
