@@ -1,5 +1,6 @@
 import { IoIosArrowDown } from "react-icons/io";
 
+{/* I encountered difficulties while working on the responsive design. */}
 const GridComponent = () => {
   return (
     <div className="grid grid-cols-7 sm:grid-cols-7 grid-rows-5 sm:grid-row-2 gap-4 px-8 pt-8 pb-8  font-primary">
