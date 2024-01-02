@@ -1,27 +1,34 @@
-# Your Project Name
+# Dashboard Challenge
 
-Welcome to your Dashbord challange! 
+Welcome to your Dashboard Challenge! 🚀
 
 ## Getting Started
 
 Follow these steps to get the project up and running on your local machine.
 
-
 ### Installation
 
 1. Clone the repository:
 
-    git clone https://github.com/Davinchi101/Dashbord
+    ```bash
+    git clone https://github.com/Davinchi101/Dashboard.git
     ```
 
+2. Navigate to the project directory:
 
-2. Install dependencies using npm:
+    ```bash
+    cd Dashboard
+    ```
 
+3. Install dependencies using npm:
+
+    ```bash
     npm install
-   
+    ```
 
 ### Usage
 
 Once the installation is complete, you can run the project using the following command:
 
-    npm run dev
+```bash
+npm run dev
