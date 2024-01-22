@@ -121,7 +121,7 @@ const GridComponent = () => {
           <div>
             <p className="mb-1">Customers</p>
             <span className="text-black font-medium	text-base ">
-              ₦0.00{" "}
+              0.00{" "}
               <span className="text-[#16a34a] ml-1 font-light">+0.00%</span>
             </span>
           </div>
